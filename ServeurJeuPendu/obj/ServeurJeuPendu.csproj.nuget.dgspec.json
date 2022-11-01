@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj": {}
+    "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ServeurJeuPendu\\ServeurJeuPendu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj": {
+    "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ServeurJeuPendu\\ServeurJeuPendu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj",
-        "projectName": "ClientJeuPendu",
-        "projectPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj",
+        "projectUniqueName": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ServeurJeuPendu\\ServeurJeuPendu.csproj",
+        "projectName": "ServeurJeuPendu",
+        "projectPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ServeurJeuPendu\\ServeurJeuPendu.csproj",
         "packagesPath": "C:\\Users\\Gaetan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\obj\\",
+        "outputPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ServeurJeuPendu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj",
+      "projectUniqueName": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu\\ClientJeuPendu.csproj",
       "projectName": "ClientJeuPendu",
-      "projectPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu.csproj",
+      "projectPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu\\ClientJeuPendu.csproj",
       "packagesPath": "C:\\Users\\Gaetan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\obj\\",
+      "outputPath": "C:\\Users\\Gaetan\\source\\repos\\ProjetReseauJeuPendu\\ClientJeuPendu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
