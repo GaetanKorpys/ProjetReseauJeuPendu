@@ -1,0 +1,15 @@
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\bin\Debug\net6.0\ClientJeuPendu.exe
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\bin\Debug\net6.0\ClientJeuPendu.deps.json
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\bin\Debug\net6.0\ClientJeuPendu.runtimeconfig.json
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\bin\Debug\net6.0\ClientJeuPendu.dll
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\bin\Debug\net6.0\ClientJeuPendu.pdb
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.csproj.AssemblyReference.cache
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.AssemblyInfoInputs.cache
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.AssemblyInfo.cs
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.csproj.CoreCompileInputs.cache
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.dll
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\refint\ClientJeuPendu.dll
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.pdb
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ClientJeuPendu.genruntimeconfig.cache
+C:\Users\Gaetan\source\repos\ProjetReseauJeuPendu\obj\Debug\net6.0\ref\ClientJeuPendu.dll
